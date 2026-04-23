@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="tgAA-gAvHA8EvrBVRk19">
+    <mxGraphModel dx="1030" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jPYaxaT7AH_Cw-Yi0xW7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;b&gt;Keyboard&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="50" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="jPYaxaT7AH_Cw-Yi0xW7-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="289.5" as="sourcePoint" />
+            <mxPoint x="290" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jPYaxaT7AH_Cw-Yi0xW7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;b&gt;Arduino UNO&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Morse Decoder + Timer)&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="310" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="jPYaxaT7AH_Cw-Yi0xW7-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;b&gt;I2C LCD 16x2 &lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="580" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="jPYaxaT7AH_Cw-Yi0xW7-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="289.5" as="sourcePoint" />
+            <mxPoint x="560" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
