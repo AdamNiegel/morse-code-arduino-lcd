@@ -1,4 +1,4 @@
-# morse-code-arduino-lcd
+# morse-code-arduino-lcd-04-23-26
 Morse Code Communication System using Arduino + I2C LCD
 
 This project is an Arduino-based Morse code communication system that converts keyboard (serial) input into readable text displayed on a 16x2 I2C LCD. It demonstrates real-time decoding of Morse sequences using buffer-based processing and includes an automatic inactivity reset system for improved usability.
@@ -34,6 +34,13 @@ Future Improvements
 - Physical button input system
 - Wireless Morse communication between two Arduinos
 - OLED upgrade for better display clarity
+
+EDIT (Latest Update: 4/24/26)
+- The project has been upgraded from Serial-only input to a **physical button-based Morse input system**
+- Added **two-button interface (dot/dash input + space button for word separation)**
+- Improved usability by removing dependency on Serial Monitor input
+- Enhanced real-time interaction using hardware input instead of keyboard typing
+- This makes the system fully standalone and more suitable for real-world embedded applications
 
 Author
 - Developed as an embedded systems learning project focusing on communication protocols, real-time input handling, and microcontroller-based text processing.
